@@ -1,4 +1,4 @@
-# Runx1_integration
+# Runx1-integration
 
 Integration of Aire WT and Aire KO single-cell RNA-seq (GSE226493) with Runx1 WT and Runx1 KO data collected for "Thymic alveolar type II epithelial mimetic cells revealed by Runx1-deficiency" (under review at Nature Immunology).
 
